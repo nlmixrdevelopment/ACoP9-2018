@@ -11,14 +11,14 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 ## AGENDA
 
 | Time (Thursday 11 October) | Presenter | Topics |
-| ------------- | ----------------- | ------|
+| -------------------------- | ----------------- | ------|
 | 8:00 | **Matt Fidler** | Introduction to nlmixr: an open-source package for pharmacometric modeling in R|
 |       |                 | nlmixr algorithms & functionality|
 |       |                 | Basic population PKPD modeling with nlmixr |
 |       |                 |  - Model syntax |
 |       |                 |  - Running nlmixr models |
 |       |                 |  - Simulating from nlmixr models |
-|       |                 | Comparison to NONMEM |
+|       |                 |  - Comparison to NONMEM |
 | 9:00 | **Teun Post** | Population model building made easy using an interactive shiny app: Introduction to shinyMixR|
 |       |                      | - nlmixr workflow |
 |       |                      | - shinyMixR |
