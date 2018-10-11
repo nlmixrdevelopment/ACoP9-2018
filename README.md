@@ -32,3 +32,18 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 
 - Download and install nlmixr from [here]( https://github.com/nlmixrdevelopment/nlmixr/releases/tag/v1.0.0-7 ) and use one of the different nlmixr installers depending on your operating system.
 - Download the course material from the following links:
+
+- [x]  [nlmixr Lecture] ( https://github.com/nlmixrdevelopment/ACoP9-2018/blob/master/nlmixr-tutorial_final.pdf )
+- [x] [Hands-On Tutorial] ( https://github.com/nlmixrdevelopment/ACoP9-2018/blob/master/acop2018Tutorial.zip )
+- [x] [nlmixr Outlook] ( https://github.com/nlmixrdevelopment/ACoP9-2018/blob/master/nlmixr%20outlook%20ACoP2018.pdf )
+- [x] [nlmixr CheatSheet] ( https://github.com/nlmixrdevelopment/ACoP9-2018/blob/master/CheatSheet_nlmixr_10072018.pdf )
+- [x] [shinyMixR CheatSheet] ( https://github.com/nlmixrdevelopment/ACoP9-2018/blob/master/CheatSheet_shinymixr_June%202018.pdf )
+
+<br />
+
+Best regards,
+
+The nlmixr team
+
+(Matthew Fidler, Teun M. Post, Richard Hooijmaijers, Rik Schoemaker, Mirjam N. Trame, Justin Wilkins, Yuan Xiong and Wenping Wang)
+
