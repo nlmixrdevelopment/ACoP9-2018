@@ -1,4 +1,6 @@
-<img src="https://github.com/nlmixrdevelopment/nlmixr/blob/master/vignettes/nlmixr_RxODE_shinyMixR_combo.jpg”>
+# ACoP9 2018
+
+<img src="https://github.com/nlmixrdevelopment/nlmixr/blob/master/vignettes/nlmixr_RxODE_shinyMixR_combo.jpg">
 
 **nlmixr short course @ ACoP9 2018**
 
